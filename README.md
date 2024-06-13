@@ -1,1 +1,1 @@
-# aws-course-materials
+AWS cloud practitioner course materials.
