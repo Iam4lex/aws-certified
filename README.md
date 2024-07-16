@@ -1,4 +1,4 @@
-Here are some of the resources I found helpful.
+Here are some of the resources I found helpful in my certification journey.
 
 
 | Name                                        | Description                              | Links                                            |
