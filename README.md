@@ -1,4 +1,4 @@
-Below are some resources that were beneficial to me on my certification adventure.
+##Below are some resources that were beneficial to me on my certification adventure.
 
 
 | Name                                        | Description                              | Links                                            |
