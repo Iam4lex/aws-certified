@@ -3,7 +3,6 @@
 
 <br>
 
-
 | Name                                        | Description                              | Links                                            |
 |-------------------------------------------------------|------------------------------------------|-----------------------------------------------------|
 | Exam Guide             | Get to know the exam and exam-style questions          | [AWS Cloud Practitioner exam guide](https://d1.awsstatic.com/training-and-certification/docs-cloud-practitioner/AWS-Certified-Cloud-Practitioner_Exam-Guide.pdf) |
