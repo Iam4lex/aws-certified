@@ -16,4 +16,4 @@
 
 ## Exam mocks
 
-- chapter 1 : [exam 1](https://github.com/scriptkiddieke/aws-cloud-practitioner-certification/blob/main/exams.md) 
+- [exam 1](https://github.com/scriptkiddieke/aws-cloud-practitioner-certification/blob/main/exams.md) 
