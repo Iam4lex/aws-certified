@@ -14,3 +14,6 @@
 | Github repo Practice Exams       | Sample exam questions(opens in a new tab)            | [AWS Certified Cloud Practitioner Practice questions](https://github.com/kananinirav/AWS-Certified-Cloud-Practitioner-Notes/blob/master/practice-exam/exams.md) |
 | AWS Cloud Practitioner Revision Questions             | Revision questions for practice          | [AWS Cloud Practitioner Revision Questions](https://www.awsboy.com/) |
 
+## Exam mocks
+
+- chapter 1 : [exam 1]() 
