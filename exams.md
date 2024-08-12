@@ -1,14 +1,4 @@
-# AWS Cloud Practitioner Practice Exam
-
-Welcome to the AWS Cloud Practitioner Practice Exam. This exam is designed to help you prepare for the AWS Certified Cloud Practitioner exam by testing your knowledge of AWS services and concepts.
-
-## Instructions
-
-- Read each question carefully.
-- Try to predict the correct answer before revealing it.
-- After making your prediction, click on the "Show Answer" button to reveal the correct answer and explanation.
-
-## Questions
+## AWS Cloud Practitioner Practice Exam Questions
 
 ### 1. Which of the following allows users to provision a dedicated network connection from their internal network to AWS?
 
@@ -149,14 +139,3 @@ Welcome to the AWS Cloud Practitioner Practice Exam. This exam is designed to he
 
 **Explanation:** Enterprise Support customers have access to a Technical Account Manager (TAM) who provides technical guidance and assistance to help plan and build solutions using best practices.
 </details>
-
-...
-
-## How to Contribute
-
-If you find any issues or have suggestions for new questions, feel free to create a pull request or open an issue.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
