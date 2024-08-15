@@ -10,8 +10,6 @@
 <details>
 <summary>Show Answer</summary>
 **Answer:** B. AWS Direct Connect
-
-**Explanation:** AWS Direct Connect allows you to establish a dedicated network connection from your premises to AWS. It helps in reducing your network costs, increasing bandwidth throughput, and providing a more consistent network experience than Internet-based connections.
 </details>
 
 ### 2. Which type of AWS storage is ephemeral and is deleted when an instance is stopped or terminated?
@@ -24,8 +22,6 @@
 <details>
 <summary>Show Answer</summary>
 **Answer:** B. Amazon EC2 instance store
-
-**Explanation:** The instance store is temporary storage that is physically attached to the host computer for an EC2 instance. Data on the instance store is lost when the instance is stopped or terminated.
 </details>
 
 ### 3. What can users access from AWS Artifact?
