@@ -34,8 +34,6 @@
 <details>
 <summary>Show Answer</summary>
 **Answer:** A. AWS security and compliance documents
-
-**Explanation:** AWS Artifact provides on-demand access to AWS’ security and compliance reports and select online agreements.
 </details>
 
 ### 4. When is it beneficial for a company to use a Spot Instance?
@@ -48,8 +46,6 @@
 <details>
 <summary>Show Answer</summary>
 **Answer:** A. When there is flexibility in when an application needs to run.
-
-**Explanation:** Spot Instances are ideal for applications that have flexible start and end times, or that can be interrupted without impacting business operations.
 </details>
 
 ### 5. Which service enables customers to audit and monitor changes in AWS resources?
@@ -62,8 +58,6 @@
 <details>
 <summary>Show Answer</summary>
 **Answer:** D. AWS Config
-
-**Explanation:** AWS Config enables you to assess, audit, and evaluate the configurations of your AWS resources. It helps you to monitor and record your AWS resource configurations and automate the evaluation of recorded configurations against desired configurations.
 </details>
 
 ### 6. Which solution provides the FASTEST application response times to frequently accessed data to users in multiple AWS Regions?
@@ -76,8 +70,6 @@
 <details>
 <summary>Show Answer</summary>
 **Answer:** B. Amazon CloudFront to edge locations
-
-**Explanation:** Amazon CloudFront is a content delivery network (CDN) that delivers data, videos, applications, and APIs to users globally with low latency and high transfer speeds by caching content at edge locations.
 </details>
 
 ### 7. Which of the following is a cloud architectural design principle?
@@ -90,8 +82,6 @@
 <details>
 <summary>Show Answer</summary>
 **Answer:** B. Loosely couple components.
-
-**Explanation:** Loosely coupling system components allows you to isolate failures and minimize impact, making the system more resilient and scalable.
 </details>
 
 ### 8. What AWS service would be used to centrally manage AWS access across multiple accounts?
@@ -104,8 +94,6 @@
 <details>
 <summary>Show Answer</summary>
 **Answer:** D. AWS Organizations
-
-**Explanation:** AWS Organizations allows you to centrally manage and govern your environment as you grow and scale your AWS resources across multiple accounts.
 </details>
 
 ### 9. Treating infrastructure as code in the AWS Cloud allows users to:
@@ -118,8 +106,6 @@
 <details>
 <summary>Show Answer</summary>
 **Answer:** D. automate the infrastructure provisioning process.
-
-**Explanation:** Infrastructure as code (IaC) is a key DevOps practice that allows you to manage infrastructure using code, leading to repeatable and reliable infrastructure provisioning.
 </details>
 
 ### 10. What exclusive benefit is provided to users with Enterprise Support?
@@ -132,6 +118,40 @@
 <details>
 <summary>Show Answer</summary>
 **Answer:** B. Access to a Technical Account Manager
+</details>
 
-**Explanation:** Enterprise Support customers have access to a Technical Account Manager (TAM) who provides technical guidance and assistance to help plan and build solutions using best practices.
+### 10. What exclusive benefit is provided to users with Enterprise Support?
+
+- A. Access to a Technical Project Manager
+- B. Access to a Technical Account Manager
+- C. Access to a Cloud Support Engineer
+- D. Access to a Solutions Architect
+
+<details>
+<summary>Show Answer</summary>
+**Answer:** B. Access to a Technical Account Manager
+</details>
+
+### 10. What exclusive benefit is provided to users with Enterprise Support?
+
+- A. Access to a Technical Project Manager
+- B. Access to a Technical Account Manager
+- C. Access to a Cloud Support Engineer
+- D. Access to a Solutions Architect
+
+<details>
+<summary>Show Answer</summary>
+**Answer:** B. Access to a Technical Account Manager
+</details>
+
+### 10. What exclusive benefit is provided to users with Enterprise Support?
+
+- A. Access to a Technical Project Manager
+- B. Access to a Technical Account Manager
+- C. Access to a Cloud Support Engineer
+- D. Access to a Solutions Architect
+
+<details>
+<summary>Show Answer</summary>
+**Answer:** B. Access to a Technical Account Manager
 </details>
