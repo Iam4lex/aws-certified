@@ -132,16 +132,15 @@
 **Answer:** B. Access to a Technical Account Manager
 </details>
 
-### 10. What exclusive benefit is provided to users with Enterprise Support?
-
-- A. Access to a Technical Project Manager
-- B. Access to a Technical Account Manager
-- C. Access to a Cloud Support Engineer
-- D. Access to a Solutions Architect
+### 11. Amazon Route 53 enables users to:
+- A. encrypt data in transit
+- B. register DNS domain names
+- C. generate and manage SSL certificates
+- D. establish a dedicated network connection to AWS
 
 <details>
 <summary>Show Answer</summary>
-**Answer:** B. Access to a Technical Account Manager
+**Answer:** B. register DNS domain names
 </details>
 
 ### 10. What exclusive benefit is provided to users with Enterprise Support?
