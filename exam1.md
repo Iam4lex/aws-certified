@@ -250,14 +250,7 @@ Applying which AWS Cloud design principle will address the current design issue?
 <summary>Show Answer</summary>
 **Answer:** B. Patching of operating systems, E. Configuration of the security group
 </details>
-
-# AWS Cloud Exam
-
-## Instructions
-- Read each question carefully.
-- Choose the most appropriate answer.
-- For questions requiring multiple answers, select all applicable options.
-- 
+ 
 ### 21. What can users access from AWS Artifact?
 
 - A. AWS security and compliance documents
@@ -379,3 +372,440 @@ Applying which AWS Cloud design principle will address the current design issue?
 <summary>Show Answer</summary>
 **Answer:** B. Ensuring an application remains accessible, even if a resource fails
 </details>
+
+### 31. Which solution provides the FASTEST application response times to frequently accessed data to users in multiple AWS Regions?
+
+- A. AWS CloudTrail across multiple Availability Zones
+- B. Amazon CloudFront to edge locations
+- C. AWS CloudFormation in multiple regions
+- D. A virtual private gateway over AWS Direct Connect
+
+<details>
+<summary>Show Answer</summary>
+**Answer:** B. Amazon CloudFront to edge locations
+</details>
+
+### 32. Which service would provide network connectivity in a hybrid architecture that includes the AWS Cloud?
+
+- A. Amazon VPC
+- B. AWS Direct Connect
+- C. AWS Directory Service
+- D. Amazon API Gateway
+
+<details>
+<summary>Show Answer</summary>
+**Answer:** B. AWS Direct Connect
+</details>
+
+### 33. What is a responsibility of AWS in the shared responsibility model?
+
+- A. Updating the network ACLs to block traffic to vulnerable ports.
+- B. Patching operating systems running on Amazon EC2 instances.
+- C. Updating the firmware on the underlying EC2 hosts.
+- D. Updating the security group rules to block traffic to the vulnerable ports.
+
+<details>
+<summary>Show Answer</summary>
+**Answer:** C. Updating the firmware on the underlying EC2 hosts.
+</details>
+
+### 34. What time-savings advantage is offered with the use of Amazon Rekognition?
+
+- A. Amazon Rekognition provides automatic watermarking of images.
+- B. Amazon Rekognition provides automatic detection of objects appearing in pictures.
+- C. Amazon Rekognition provides the ability to resize millions of images automatically.
+- D. Amazon Rekognition uses Amazon Mechanical Turk to allow humans to bid on object detection jobs.
+
+<details>
+<summary>Show Answer</summary>
+**Answer:** B. Amazon Rekognition provides automatic detection of objects appearing in pictures.
+</details>
+
+### 35. When is it beneficial for a company to use a Spot Instance?
+
+- A. When there is flexibility in when an application needs to run.
+- B. When there are mission-critical workloads.
+- C. When dedicated capacity is needed.
+- D. When an instance should not be stopped.
+
+<details>
+<summary>Show Answer</summary>
+**Answer:** A. When there is flexibility in when an application needs to run.
+</details>
+
+### 36. Which of the following is an important architectural principle when designing cloud applications?
+
+- A. Store data and backups in the same region.
+- B. Design tightly coupled system components.
+- C. Avoid multi-threading.
+- D. Design for failure.
+
+<details>
+<summary>Show Answer</summary>
+**Answer:** D. Design for failure.
+</details>
+
+### 37. Under the AWS shared responsibility model, customers are responsible for which aspects of security in the cloud? (Choose two.)
+
+- A. Virtualization Management
+- B. Hardware management
+- C. Encryption management
+- D. Facilities management
+- E. Firewall management
+
+<details>
+<summary>Show Answer</summary>
+**Answer:** C. Encryption management, E. Firewall management
+</details>
+
+### 38. Which AWS service can a customer use to set up an alert notification when the account is approaching a particular dollar amount?
+
+- A. AWS Cost and Usage reports
+- B. AWS Budgets
+- C. AWS Cost Explorer
+- D. AWS Trusted Advisor
+
+<details>
+<summary>Show Answer</summary>
+**Answer:** B. AWS Budgets
+</details>
+
+### 39. Under the AWS shared responsibility model, customers are responsible for which aspects of security in the cloud? (Choose two.)
+
+- A. Virtualization Management
+- B. Hardware management
+- C. Encryption management
+- D. Facilities management
+- E. Firewall management
+
+<details>
+<summary>Show Answer</summary>
+**Answer:** C. Encryption management, E. Firewall management
+</details>
+
+### 40. Which AWS service can a customer use to set up an alert notification when the account is approaching a particular dollar amount?
+
+- A. AWS Cost and Usage reports
+- B. AWS Budgets
+- C. AWS Cost Explorer
+- D. AWS Trusted Advisor
+
+<details>
+<summary>Show Answer</summary>
+**Answer:** B. AWS Budgets
+</details>
+
+### 41. Which AWS security service protects applications from distributed denial of service attacks with always-on detection and automatic inline mitigations?
+
+- A. Amazon Inspector
+- B. AWS Web Application Firewall (AWS WAF)
+- C. Elastic Load Balancing (ELB)
+- D. AWS Shield
+
+<details>
+<summary>Show Answer</summary>
+**Answer:** D. AWS Shield
+</details>
+
+### 42. Which of the following BEST describe the AWS pricing model? (Choose two.)
+
+- A. Fixed-term
+- B. Pay-as-you-go
+- C. Colocation
+- D. Planned
+- E. Variable cost
+
+<details>
+<summary>Show Answer</summary>
+**Answer:** B. Pay-as-you-go, E. Variable cost
+</details>
+
+### 43. Which principles are used to architect applications for reliability on the AWS Cloud? (Choose two.)
+
+- A. Design for automated failure recovery
+- B. Use multiple Availability Zones
+- C. Manage changes via documented processes
+- D. Test for moderate demand to ensure reliability
+- E. Backup recovery to an on-premises environment
+
+<details>
+<summary>Show Answer</summary>
+**Answer:** A. Design for automated failure recovery, B. Use multiple Availability Zones
+</details>
+
+### 44. Why should a company choose AWS instead of a traditional data center?
+
+- A. AWS provides users with full control over the underlying resources.
+- B. AWS does not require long-term contracts and provides a pay-as-you-go model.
+- C. AWS offers edge locations in every country, supporting global reach.
+- D. AWS has no limits on the number of resources that can be created.
+
+<details>
+<summary>Show Answer</summary>
+**Answer:** B. AWS does not require long-term contracts and provides a pay-as-you-go model.
+</details>
+
+### 45. Which service’s PRIMARY purpose is software version control?
+
+- A. Amazon CodeStar
+- B. AWS Command Line Interface (AWS CLI)
+- C. Amazon Cognito
+- D. AWS CodeCommit
+
+<details>
+<summary>Show Answer</summary>
+**Answer:** D. AWS CodeCommit
+</details>
+
+### 46. What does it mean to grant least privilege to AWS IAM users?
+
+- A. It is granting permissions to a single user only.
+- B. It is granting permissions using AWS IAM policies only.
+- C. It is granting AdministratorAccess policy permissions to trustworthy users.
+- D. It is granting only the permissions required to perform a given task.
+
+<details>
+<summary>Show Answer</summary>
+**Answer:** D. It is granting only the permissions required to perform a given task.
+</details>
+
+### 47. Which Amazon EC2 pricing model is the MOST cost efficient for an uninterruptible workload that runs once a year for 24 hours?
+
+- A. On-Demand Instances
+- B. Reserved Instances
+- C. Spot Instances
+- D. Dedicated Instances
+
+<details>
+<summary>Show Answer</summary>
+**Answer:** B. Reserved Instances
+</details>
+
+### 48. How does AWS charge for AWS Lambda?
+
+- A. Users bid on the maximum price they are willing to pay per hour.
+- B. Users choose a 1-, 3- or 5-year upfront payment term.
+- C. Users pay for the required permanent storage on a file system or in a database.
+- D. Users pay based on the number of requests and consumed compute resources.
+
+<details>
+<summary>Show Answer</summary>
+**Answer:** D. Users pay based on the number of requests and consumed compute resources.
+</details>
+
+### 49. Which AWS hybrid storage service enables your on-premises applications to seamlessly use AWS Cloud storage through standard file-storage protocols?
+
+- A. AWS Direct Connect
+- B. AWS Snowball
+- C. AWS Storage Gateway
+- D. AWS Snowball Edge
+
+<details>
+<summary>Show Answer</summary>
+**Answer:** C. AWS Storage Gateway
+</details>
+
+### 50. A company is considering moving its on-premises data center to AWS. What factors should be included in doing a Total Cost of Ownership (TCO) analysis? (Choose two.)
+
+- A. Amazon EC2 instance availability
+- B. Power consumption of the data center
+- C. Labor costs to replace old servers
+- D. Application developer time
+- E. Database engine capacity
+
+<details>
+<summary>Show Answer</summary>
+**Answer:** B. Power consumption of the data center, C. Labor costs to replace old servers
+</details>
+
+# AWS Cloud Exam
+
+## Instructions
+- Read each question carefully.
+- Choose the most appropriate answer.
+- For questions requiring multiple answers, select all applicable options.
+
+---
+
+### 51. A company wants to monitor the CPU usage of its Amazon EC2 resources. Which AWS service should the company use?
+
+- A. AWS CloudTrail
+- B. Amazon CloudWatch
+- C. AWS Cost and Usage report
+- D. Amazon Simple Notification Service (Amazon SNS)
+
+<details>
+<summary>Show Answer</summary>
+**Answer:** B. Amazon CloudWatch
+</details>
+
+### 52. Which of the following AWS services can be used to run a self-managed database?
+
+- A. Amazon Route 53
+- B. AWS X-Ray
+- C. AWS Snowmobile
+- D. Amazon Elastic Compute Cloud (Amazon EC2)
+
+<details>
+<summary>Show Answer</summary>
+**Answer:** D. Amazon Elastic Compute Cloud (Amazon EC2)
+</details>
+
+### 53. Which Amazon Virtual Private Cloud (Amazon VPC) feature enables users to connect two VPCs together?
+
+- A. Amazon VPC endpoints
+- B. Amazon Elastic Compute Cloud (Amazon EC2) ClassicLink
+- C. Amazon VPC peering
+- D. AWS Direct Connect
+
+<details>
+<summary>Show Answer</summary>
+**Answer:** C. Amazon VPC peering
+</details>
+
+### 54. Which load balancer types are available with Elastic Load Balancing (ELB)? (Choose two.)
+
+- A. Public load balancers with AWS Application Auto Scaling capabilities
+- B. F5 Big-IP and Citrix NetScaler load balancers
+- C. Classic Load Balancers
+- D. Cross-zone load balancers with public and private IPs
+- E. Application Load Balancers
+
+<details>
+<summary>Show Answer</summary>
+**Answer:** C. Classic Load Balancers, E. Application Load Balancers
+</details>
+
+### 55. Which architectural principle is used when deploying an Amazon Relational Database Service (Amazon RDS) instance in Multiple Availability Zone mode?
+
+- A. Implement loose coupling.
+- B. Design for failure.
+- C. Automate everything that can be automated.
+- D. Use services, not servers.
+
+<details>
+<summary>Show Answer</summary>
+**Answer:** B. Design for failure.
+</details>
+
+### 56. A company wants to monitor the CPU usage of its Amazon EC2 resources. Which AWS service should the company use?
+
+- A. AWS CloudTrail
+- B. Amazon CloudWatch
+- C. AWS Cost and Usage report
+- D. Amazon Simple Notification Service (Amazon SNS)
+
+<details>
+<summary>Show Answer</summary>
+**Answer:** B. Amazon CloudWatch
+</details>
+
+### 57. Which of the following services is a MySQL-compatible database that automatically grows storage as needed?
+
+- A. Amazon Elastic Compute Cloud (Amazon EC2)
+- B. Amazon Relational Database Service (Amazon RDS) for MySQL
+- C. Amazon Lightsail
+- D. Amazon Aurora
+
+<details>
+<summary>Show Answer</summary>
+**Answer:** D. Amazon Aurora
+</details>
+
+### 58. How can a user protect against AWS service disruptions if a natural disaster affects an entire geographic area?
+
+- A. Deploy applications across multiple Availability Zones within an AWS Region.
+- B. Use a hybrid cloud computing deployment model within the geographic area.
+- C. Deploy applications across multiple AWS Regions.
+- D. Store application artifacts using AWS Artifact and replicate them across multiple AWS Regions.
+
+<details>
+<summary>Show Answer</summary>
+**Answer:** C. Deploy applications across multiple AWS Regions.
+</details>
+
+### 59. Which of the following is an AWS-managed compute service?
+
+- A. Amazon SWF
+- B. Amazon EC2
+- C. AWS Lambda
+- D. Amazon Aurora
+
+<details>
+<summary>Show Answer</summary>
+**Answer:** C. AWS Lambda
+</details>
+
+### 60. Which AWS service offers on-demand access to AWS security and compliance reports?
+
+- A. AWS CloudTrail
+- B. AWS Artifact
+- C. AWS Health
+- D. Amazon CloudWatch
+
+<details>
+<summary>Show Answer</summary>
+**Answer:** B. AWS Artifact
+</details>
+
+### 61. What is an AWS Identity and Access Management (IAM) role?
+
+- A. A user associated with an AWS resource
+- B. A group associated with an AWS resource
+- C. An entity that defines a set of permissions for use with an AWS resource
+- D. An authentication credential associated with a multi-factor authentication (MFA) token
+
+<details>
+<summary>Show Answer</summary>
+**Answer:** C. An entity that defines a set of permissions for use with an AWS resource
+</details>
+
+### 62. Which AWS service provides a secure, fast, and cost-effective way to migrate or transport exabyte-scale datasets into AWS?
+
+- A. AWS Batch
+- B. AWS Snowball
+- C. AWS Migration Hub
+- D. AWS Snowmobile
+
+<details>
+<summary>Show Answer</summary>
+**Answer:** D. AWS Snowmobile
+</details>
+
+### 63. Which of the following is a cloud architectural design principle?
+
+- A. Scale up, not out.
+- B. Loosely couple components.
+- C. Build monolithic systems.
+- D. Use commercial database software.
+
+<details>
+<summary>Show Answer</summary>
+**Answer:** B. Loosely couple components.
+</details>
+
+### 64. Which disaster recovery scenario offers the lowest probability of downtime?
+
+- A. Backup and restore
+- B. Pilot light
+- C. Warm standby
+- D. Multi-site active-active
+
+<details>
+<summary>Show Answer</summary>
+**Answer:** D. Multi-site active-active
+</details>
+
+### 65. Which of the following is an AWS Well-Architected Framework design principle related to reliability?
+
+- A. Deployment to a single Availability Zone
+- B. Ability to recover from failure
+- C. Design for cost optimization
+- D. Perform operations as code
+
+<details>
+<summary>Show Answer</summary>
+**Answer:** B. Ability to recover from failure
+</details>
+
+
