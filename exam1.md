@@ -135,7 +135,7 @@ Applying which AWS Cloud design principle will address the current design issue?
 
 <details>
 <summary>Show Answer</summary>
-**Answer:** A. Compute costs, C. Storage costs, D. Data transfer costs
+**Answer:** A. Compute costs, C. Storage costs, F. Hardware lifecycle costs
 </details>
 
 
