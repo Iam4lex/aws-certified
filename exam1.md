@@ -272,7 +272,7 @@ Applying which AWS Cloud design principle will address the current design issue?
 
 <details>
 <summary>Show Answer</summary>
-**Answer:** B. Business
+**Answer:** A. Enterprise
 </details>
 
 ### 23. What exclusive benefit is provided to users with Enterprise Support?
