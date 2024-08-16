@@ -469,7 +469,7 @@
 
    <details>
    <summary>Show Answer</summary>
-   **Answer:** B. Protecting against IP spoofing and packet sniffing and D. Encrypting communication between the EC2 instances and the Elastic Load Balancer
+   **Answer:** B. Protecting against IP spoofing and packet sniffing and C. Installing the latest security patches on the RDS instance
    </details>
 
 **43. Which AWS service can be used to automatically scale an application up and down without making capacity planning decisions?**
