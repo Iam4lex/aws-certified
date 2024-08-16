@@ -18,3 +18,4 @@
 
 - [chapter 1](https://github.com/scriptkiddieke/aws-cloud-practitioner-certification/blob/main/exams.md) 
 - [chapter 2](https://github.com/scriptkiddieke/aws-certified/blob/main/exam1.md) 
+- [chapter 3](https://github.com/scriptkiddieke/aws-certified/blob/main/exam2.md) 
