@@ -16,6 +16,10 @@
 
 ## Exam mocks
 
-- [chapter 1](https://github.com/scriptkiddieke/aws-cloud-practitioner-certification/blob/main/exams.md) 
-- [chapter 2](https://github.com/scriptkiddieke/aws-certified/blob/main/exam1.md) 
-- [chapter 3](https://github.com/scriptkiddieke/aws-certified/blob/main/exam2.md) 
+- [chapter 1](https://github.com/scriptkiddieke/aws-certified/blob/main/exam1.md) 
+- [chapter 2](https://github.com/scriptkiddieke/aws-certified/blob/main/exam2.md) 
+- [chapter 3](https://github.com/scriptkiddieke/aws-certified/blob/main/exam3.md) 
+- [chapter 4](https://github.com/scriptkiddieke/aws-certified/blob/main/exam4.md) 
+- [chapter 5](https://github.com/scriptkiddieke/aws-certified/blob/main/exam5.md) 
+- [chapter 6](https://github.com/scriptkiddieke/aws-certified/blob/main/exam6.md) 
+- [chapter 4](https://github.com/scriptkiddieke/aws-certified/blob/main/exam4.md) 
