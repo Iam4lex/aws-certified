@@ -185,7 +185,7 @@ Applying which AWS Cloud design principle will address the current design issue?
 
 <details>
 <summary>Show Answer</summary>
-**Answer:** A. It is solely the responsibility of the customer.
+**Answer:** C. It is shared between AWS and the customer.
 </details>
 
 ### 16. Which of the following are benefits of hosting infrastructure in the AWS Cloud? (Choose two.)
