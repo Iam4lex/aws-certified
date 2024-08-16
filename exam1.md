@@ -618,15 +618,6 @@ Applying which AWS Cloud design principle will address the current design issue?
 **Answer:** B. Power consumption of the data center, C. Labor costs to replace old servers
 </details>
 
-# AWS Cloud Exam
-
-## Instructions
-- Read each question carefully.
-- Choose the most appropriate answer.
-- For questions requiring multiple answers, select all applicable options.
-
----
-
 ### 51. A company wants to monitor the CPU usage of its Amazon EC2 resources. Which AWS service should the company use?
 
 - A. AWS CloudTrail
