@@ -578,7 +578,7 @@ Applying which AWS Cloud design principle will address the current design issue?
 
 <details>
 <summary>Show Answer</summary>
-**Answer:** B. Reserved Instances
+**Answer:** A. On-Demand Instances
 </details>
 
 ### 48. How does AWS charge for AWS Lambda?
