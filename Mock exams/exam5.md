@@ -19,7 +19,7 @@
 
     <details>
     <summary>Show Answer</summary>
-    **Answer:** A. Use multiple AWS accounts
+    **Answer:** B. Use resource tagging
     </details>
 
 3. Which AWS service can be used in the application deployment process?
