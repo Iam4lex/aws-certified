@@ -179,7 +179,7 @@
 
    <details>
    <summary>Show Answer</summary>
-   **Answer:** A. It is solely the responsibility of the customer.
+   **Answer:** C. It is shared between AWS and the customer.
    </details>
 
 **17. Which of the following provides the ability to share the cost benefits of Reserved Instances across AWS accounts?**
