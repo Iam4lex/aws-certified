@@ -157,7 +157,7 @@
 
    <details>
    <summary>Show Answer</summary>
-   **Answer:** A. Compute costs, C. Storage costs, D. Data transfer costs
+   **Answer:** A. Compute costs, C. Storage costs, F. Hardware lifecycle costs
    </details>
 
 **15. A company wants to monitor the CPU usage of its Amazon EC2 resources. Which AWS service should the company use?**
