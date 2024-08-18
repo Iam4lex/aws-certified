@@ -16,4 +16,3 @@
 - [chapter 3](https://github.com/scriptkiddieke/aws-certified/blob/main/Mock%20exams/exam3.md) 
 - [chapter 4](https://github.com/scriptkiddieke/aws-certified/blob/main/Mock%20exams/exam4.md) 
 - [chapter 5](https://github.com/scriptkiddieke/aws-certified/blob/main/Mock%20exams/exam5.md) 
-- [chapter 6](https://github.com/scriptkiddieke/aws-certified/blob/main/Mock%20exams/exam6.md) 
