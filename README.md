@@ -4,7 +4,6 @@
 
 <br>
 
-
 | Name                                        | Description                              | Links                                            |
 |-------------------------------------------------------|------------------------------------------|-----------------------------------------------------|
 | AWS Cloud Practitioner Essentials.                    | AWS Skills Builder course                | [AWS Cloud Practitioner Essentials](https://explore.skillbuilder.aws/learn/course/external/view/elearning/134/aws-cloud-practitioner-essentials)   |
