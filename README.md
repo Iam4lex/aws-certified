@@ -4,7 +4,6 @@
 
 <br>
 
-
 | Name                                        | Description                              | Links                                            |
 |-------------------------------------------------------|------------------------------------------|-----------------------------------------------------|
 | AWS re/Start notes                    | Google drive with all AWS re/Start notes                | [AWS re/Start notes](https://drive.google.com/drive/folders/1pmouoY__6UDWhaeqVS7ApF2rbbnh1XPh?usp=sharing) |
