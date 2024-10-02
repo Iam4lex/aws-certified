@@ -1,7 +1,7 @@
 ![My Banner](banner.jpeg)
 
 ## Below are some resources that were beneficial to me on my certification adventure.
- 
+  
 - Pracrice. Practice. Practice.
 
 <br> 
