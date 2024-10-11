@@ -1,5 +1,3 @@
-![My Banner](banner.jpeg)
-
 ## Below are some resources that were beneficial to me on my certification adventure.
   
 - Pracrice. Practice. Practice.
@@ -20,3 +18,12 @@
 - [chapter 3](https://github.com/scriptkiddieke/aws-certified/blob/main/Mock%20exams/exam3.md) 
 - [chapter 4](https://github.com/scriptkiddieke/aws-certified/blob/main/Mock%20exams/exam4.md) 
 - [chapter 5](https://github.com/scriptkiddieke/aws-certified/blob/main/Mock%20exams/exam5.md)  
+
+
+**Author**: Iam4lex  
+**Connect with me**:  
+- [X (Twitter)](https://x.com/Iam4lex)  
+- [LinkedIn](https://www.linkedin.com/in/iam4lex/)
+- [Instagram](https://instagram.com/)
+
+Let me know if there are any corrections or mistakes.
