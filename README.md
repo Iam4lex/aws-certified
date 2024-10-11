@@ -24,6 +24,6 @@
 **Connect with me**:  
 - [X (Twitter)](https://x.com/Iam4lex)  
 - [LinkedIn](https://www.linkedin.com/in/iam4lex/)
-- [Instagram](https://instagram.com/)
+- [Instagram](https://instagram.com/iqm4lex)
 
 Let me know if there are any corrections or mistakes.
