@@ -5,7 +5,7 @@
 - A. Amazon EBS
 - B. Amazon EC2 instance store
 - C. Amazon EFS
-- D. Amazon S3
+- D. Amazon S3 
 
 <details>
 <summary>Show Answer</summary>
