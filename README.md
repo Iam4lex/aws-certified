@@ -6,7 +6,7 @@
   <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Iam4lex?style=social">
   </a>
 </div>
-<br>   
+<br>    
 
 - Below are some resources that were beneficial to me on my certification adventure. 
     
