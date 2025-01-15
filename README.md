@@ -5,7 +5,7 @@
   <a class="header-badge" target="_blank" href="https://twitter.com/Iam4lex">
   <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Iam4lex?style=social">
   </a>
-</div>
+</div> 
 <br>    
 
 - Below are some resources that were beneficial to me on my certification adventure. 
