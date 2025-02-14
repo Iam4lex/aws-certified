@@ -21,10 +21,8 @@
 - [chapter 5](https://github.com/scriptkiddieke/aws-certified/blob/main/Mock%20exams/exam5.md)  
 
 
-**Author**: Iam4lex  
+**Author**: stilla1ex
 **Connect with me**:  
-- [X (Twitter)](https://x.com/Iam4lex)  
-- [LinkedIn](https://www.linkedin.com/in/iam4lex/)
-- [Instagram](https://instagram.com/iqm4lex)
+- [X (Twitter)](https://x.com/stilla1ex)  
 
 Let me know if there are any corrections or mistakes.
